@@ -1,0 +1,5 @@
+{
+  "/(root)/jobs/page": "app/(root)/jobs/page.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js"
+}
